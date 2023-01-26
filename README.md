@@ -8,5 +8,5 @@
 [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 ```
-conda create -n pcd -c conda-forge python=3.9 numpy opencv scikit-image scipy pillow matplotlib jupyter
+conda env create -f environment.yml
 ```

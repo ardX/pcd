@@ -1,0 +1,7 @@
+https://www.analyticsvidhya.com/blog/2021/09/a-beginners-guide-to-image-processing-with-opencv-and-python/
+https://openframeworks.cc/ofBook/chapters/image_processing_computer_vision.html
+https://docs.opencv.org/4.7.0/d2/d96/tutorial_py_table_of_contents_imgproc.html
+https://likegeeks.com/python-image-processing/
+https://medium.com/@koushikc2000/basic-operations-on-images-using-opencv-python-cb0d60d11911
+https://github.com/ryuzaki2578/DigitalImageProcessing-JupyterNotebbok
+https://github.com/Seyed-Ali-Ahmadi/Digital-Image-Processing
